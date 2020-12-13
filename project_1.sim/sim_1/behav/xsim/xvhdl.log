@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jlope.DESKTOP-3003JMM/Desktop/PRACTICA_DEF/project_1/project_1.srcs/sources_1/new/demo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'p1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jlope.DESKTOP-3003JMM/Desktop/PRACTICA_DEF/project_1/project_1.srcs/sim_1/new/p1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'p1_tb'
