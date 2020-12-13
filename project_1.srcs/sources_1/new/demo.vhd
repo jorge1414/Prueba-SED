@@ -12,7 +12,7 @@ ARCHITECTURE behavior OF p1 IS
 Signal led_int : STD_LOGIC_VECTOR(15 downto 0) := "0000000000000000";
 BEGIN
 LED <= led_int;
-led_int(0) <= not(SW(0));
+led_int(0) <= not(SW(0)); -- Comentario
 led_int(1) <= SW(1) and not(SW(2));
 led_int(3) <= SW(2) and SW(3);
 led_int(2) <= led_int(1) or led_int(3);
