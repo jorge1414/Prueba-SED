@@ -1,0 +1,117 @@
+/*
+
+Xilinx Vivado v2020.1 (64-bit) [Major: 2020, Minor: 1]
+SW Build: 2902540 on Wed May 27 19:54:49 MDT 2020
+IP Build: 2902112 on Wed May 27 22:43:36 MDT 2020
+
+Process ID (PID): 8280
+License: Customer
+
+Current time: 	Sun Dec 13 19:16:10 CET 2020
+Time zone: 	Central European Standard Time (Europe/Paris)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 2
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Vivado/2020.1/tps/win64/jre9.0.4
+Java executable location: 	C:/Vivado/2020.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	jlope
+User home directory: C:/Users/jlope.DESKTOP-3003JMM
+User working directory: C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED
+User country: 	ES
+User language: 	es
+User locale: 	es_ES
+
+RDI_BASEROOT: C:/Vivado
+HDI_APPROOT: C:/Vivado/2020.1
+RDI_DATADIR: C:/Vivado/2020.1/data
+RDI_BINDIR: C:/Vivado/2020.1/bin
+
+Vivado preferences file location: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/vivado.xml
+Vivado preferences directory: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/
+Vivado layouts directory: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/data/layouts
+PlanAhead jar file location: 	C:/Vivado/2020.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED/vivado.log
+Vivado journal file location: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED/vivado.jou
+Engine tmp dir: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED/.Xil/Vivado-8280-DESKTOP-3003JMM
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Vivado/2020.1/ids_lite/ISE
+XILINX_DSP: C:/Vivado/2020.1/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Vivado/2020.1
+XILINX_VIVADO: C:/Vivado/2020.1
+XILINX_VIVADO_HLS: C:/Vivado/2020.1
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,011 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// WARNING: HEventQueue.dispatchEvent() is taking  1053 ms.
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: C:\Users\jlope.DESKTOP-3003JMM\Desktop\SED\Prueba-SED\project_1.xpr. Version: Vivado v2020.1 
+// bz (cs):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED/project_1.xpr 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,011 MB. GUI used memory: 50 MB. Current time: 12/13/20, 7:16:11 PM CET
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED/project_1.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/jlope.DESKTOP-3003JMM/Desktop/PRACTICA_DEF/project_1' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 65 MB (+65492kb) [00:00:30]
+// [Engine Memory]: 1,011 MB (+908831kb) [00:00:30]
+// [GUI Memory]: 81 MB (+13874kb) [00:00:31]
+// [GUI Memory]: 106 MB (+21924kb) [00:00:33]
+// WARNING: HEventQueue.dispatchEvent() is taking  8160 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Vivado/2020.1/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:21 . Memory (MB): peak = 1024.309 ; gain = 0.000 
+// Project name: project_1; location: C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/Prueba-SED; part: xc7a100tcsg324-1
+dismissDialog("Open Project"); // bz (cs)
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 563ms to process. Increasing delay to 3000 ms.
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 1051 ms. Increasing delay to 3153 ms.
+// Tcl Message: update_compile_order -fileset sources_1 
+// TclEventType: FILE_SET_CHANGE
